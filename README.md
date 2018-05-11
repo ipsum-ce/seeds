@@ -4,9 +4,6 @@
 Add these nodes in your ips.conf to seed faster.
 
 ```
-addnode=159.65.67.167
-addnode=167.99.155.35
-addnode=198.199.96.58
 addnode=167.99.234.180
 addnode=198.199.96.58
 addnode=159.65.67.167
@@ -37,4 +34,5 @@ addnode=144.168.44.229
 addnode=45.76.33.250
 addnode=149.28.96.193
 addnode=35.196.130.190
+addnode=159.89.116.47
 ```
