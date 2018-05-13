@@ -74,4 +74,14 @@ addnode=63.209.33.175
 addnode=45.77.223.47
 addnode=45.77.136.185
 addnode=217.69.0.111
+addnode=68.114.79.172
+addnode=108.61.198.246
+addnode=165.227.171.94
+addnode=178.62.103.151
+addnode=167.99.217.240
+addnode=159.89.158.211
+addnode=45.76.46.69
+addnode=45.32.187.55
+addnode=45.76.46.69
+addnode=45.32.187.55
 ```
